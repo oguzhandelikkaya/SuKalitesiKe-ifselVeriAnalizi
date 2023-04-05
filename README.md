@@ -1,2 +1,2 @@
-# SuKalitesiKe-ifselVeriAnalizi
-KNN ve Random Forest algoritmalarını kullanarak su kalitesi keşifsel veri analizi. 
+# SuKalitesiAnalizi
+KNN ve Random Forest algoritmalarını kullanarak su kalitesi analizi. 
